@@ -1,0 +1,121 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssFloatPxLength" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidAtRule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidCharsetRule" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidElement" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidFunction" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidHtmlTagReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidImport" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidMediaFeature" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidPropertyValue" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidPseudoSelector" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssMissingComma" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssNegativeValue" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssNoGenericFontName" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssOverwrittenProperties" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssRedundantUnit" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssReplaceWithShorthandSafely" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssReplaceWithShorthandUnsafely" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="CssUnitlessNumber" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssUnknownProperty" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="myCustomPropertiesEnabled" value="false" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="CssUnknownTarget" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssUnresolvedClass" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssUnresolvedCustomProperty" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssUnusedSymbol" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="402" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JupyterPackageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBehaveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="3.11" />
+            <item index="1" class="java.lang.String" itemvalue="3.12" />
+            <item index="2" class="java.lang.String" itemvalue="3.13" />
+            <item index="3" class="java.lang.String" itemvalue="3.10" />
+            <item index="4" class="java.lang.String" itemvalue="3.9" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="29">
+            <item index="0" class="java.lang.String" itemvalue="autopep8" />
+            <item index="1" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="2" class="java.lang.String" itemvalue="Django" />
+            <item index="3" class="java.lang.String" itemvalue="Unipath" />
+            <item index="4" class="java.lang.String" itemvalue="python-decouple" />
+            <item index="5" class="java.lang.String" itemvalue="asgiref" />
+            <item index="6" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="7" class="java.lang.String" itemvalue="pytz" />
+            <item index="8" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="9" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="10" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="11" class="java.lang.String" itemvalue="pyglet" />
+            <item index="12" class="java.lang.String" itemvalue="graphviz" />
+            <item index="13" class="java.lang.String" itemvalue="numpy" />
+            <item index="14" class="java.lang.String" itemvalue="Pillow" />
+            <item index="15" class="java.lang.String" itemvalue="pandas" />
+            <item index="16" class="java.lang.String" itemvalue="numba" />
+            <item index="17" class="java.lang.String" itemvalue="patsy" />
+            <item index="18" class="java.lang.String" itemvalue="scipy" />
+            <item index="19" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="20" class="java.lang.String" itemvalue="statsmodels" />
+            <item index="21" class="java.lang.String" itemvalue="sympy" />
+            <item index="22" class="java.lang.String" itemvalue="pandas-datareader" />
+            <item index="23" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="24" class="java.lang.String" itemvalue="azure-cognitiveservices-search-imagesearch" />
+            <item index="25" class="java.lang.String" itemvalue="nbdev" />
+            <item index="26" class="java.lang.String" itemvalue="fastai" />
+            <item index="27" class="java.lang.String" itemvalue="sklearn" />
+            <item index="28" class="java.lang.String" itemvalue="torch" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+          <option value="W29" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="predictfile.*" />
+          <option value="Backend.diary_quiz_qpp.history_app.urls.*" />
+          <option value="GradientDescent_for_datasciense.*" />
+          <option value="GradientDescent_for_datasciense.Vectorslope" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,27 @@
+version: '3.11'
+services:
+  app-db:
+    image: mysql:8
+    command:
+      --collation-server=utf8mb4_0900_bin
+      --transaction-isolation=READ-COMMITTED
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      TZ: Asia/Tokyo
+    ports:
+      - 53306:3306
+  frontend:
+    build:
+      context: ./app/frontend  # This is the directory path where the frontend code is located
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - '3000:3000'
+  backend:
+    build:
+      context: ./app/backend  # This is the directory path where the backend code is located
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - '8000:8000'

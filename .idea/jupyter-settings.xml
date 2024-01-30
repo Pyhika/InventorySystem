@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../CreateDeepLearning/.idea/CreateDeepLearning.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8888" />
+              <option name="sdkHomePath" value="$USER_HOME$/opt/anaconda3/envs/generative/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../claster/.idea/claster.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8890" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../data100/.idea/data100.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8890" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../generate-deep-learning/.idea/jenerate-deep-learning.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jenerate-deep-learning/.idea/jenerate-deep-learning.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../scikit-learn-Cookbook-Second-Edition-master/.idea/scikit-learn-Cookbook-Second-Edition-master.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="port" value="8892" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/pythons/test/.idea/test.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/anaconda3/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/プログラミング/pythons/.idea/pythons.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/anaconda3/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
